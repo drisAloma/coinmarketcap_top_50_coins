@@ -21,7 +21,7 @@ def get_html_page(url):
     html = requests.post(url='http://localhost:8050/run',
                                      json={
                                          'lua_source': script,
-                                         'url': URL
+                                         'url': url
                                      })
     
     return html
