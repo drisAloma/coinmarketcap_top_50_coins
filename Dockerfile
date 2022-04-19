@@ -1,7 +1,7 @@
 FROM python:latest
 
-ADD main.py .
+ADD scrapper.py .
 
 RUN pip install pandas requests beautifulsoup4
 
-CMD [ "python", "./main.py"]
+CMD [ "python", "./scrapper.py"]
