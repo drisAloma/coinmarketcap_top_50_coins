@@ -29,7 +29,7 @@ def get_html_page(url):
 def top_50_crypto():
     
     # Requesting HTTP connection
-    response = get_html_page(URL)
+    response = get_html_page(url)
     
     # Creating soup object
     soup = BeautifulSoup(response.content, 'html.parser')
