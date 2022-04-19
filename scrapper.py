@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd 
 
 
-def get_html_page(URL):
+def get_html_page(url):
 
     script = '''
             headers = {
