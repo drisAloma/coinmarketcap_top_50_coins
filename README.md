@@ -1,4 +1,4 @@
-# coinmarketcap_top_50_coins: A webscrapper for coinmarketcap to 50 coins by market capitalization built with python and splash framework.
+## A webscrapper to scrap coinmarketcap website for top 50 coins by market capitalization built with python and splash framework.
 
 ### Steps to launch app
 Execute the following in windows CMD.
