@@ -1,7 +1,8 @@
-# coinmarketcap_top_50_coins
+# coinmarketcap_top_50_coins: A webscrapper for coinmarketcap to 50 coins by market capitalization built with python and splash framework.
 
-Execute the following steps in CMD prompt
-Ps --> Docker version >= 17 must be installed
+### Steps to launch app
+Execute the following in windows CMD.
+N.B --> Docker version >= 17 must be installed
 
 Step 1: Pull the splash image fron docker
 - sudo docker pull scrapinghub/splash
