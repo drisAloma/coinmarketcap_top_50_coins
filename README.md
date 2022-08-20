@@ -1,7 +1,7 @@
 ## A webscrapper built with python and splash framework to retrieve top 50 coins by market capitalization on coinmarketcap website.
 
 ### Steps to launch app
-Execute the following in windows CMD.
+Execute the following in windows CMD.</br>
 N.B --> Docker version >= 17 must be installed
 
 Step 1: Pull the splash image fron docker
